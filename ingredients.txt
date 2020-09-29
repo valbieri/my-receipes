@@ -8,3 +8,4 @@
 * sale
 * salame
 * carciofi
+* amore
