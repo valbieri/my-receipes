@@ -1,0 +1,8 @@
+* pomodoro
+* mozzarella
+* basilico
+* farina
+* acqua
+* olio
+* lievito
+* sale
